@@ -6,3 +6,6 @@ This artificial intelligence model was created to improve skills and gain experi
 
 ### Dataset
 Dataset was developed with simple practice data provided by "우경 정보 기술" I uploaded the current dataset to my github.
+Accuracy and loss could not be guaranteed because the number of data per class was significantly small.
+
+### Model
